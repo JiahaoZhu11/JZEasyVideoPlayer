@@ -11,6 +11,8 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
+Minimum iOS Target: 9.0
+
 ## Installation
 
 JZEazyVideoPlayer is available through [CocoaPods](https://cocoapods.org). To install
@@ -22,7 +24,7 @@ pod 'JZEazyVideoPlayer'
 
 ## Author
 
-jiahao_zhu98@outlook.com, jiahao.zhu@maibaapp.cn
+朱嘉皓, jiahao_zhu98@outlook.com
 
 ## License
 
