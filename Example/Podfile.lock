@@ -1,0 +1,16 @@
+PODS:
+  - JZEazyVideoPlayer (0.1.0)
+
+DEPENDENCIES:
+  - JZEazyVideoPlayer (from `../`)
+
+EXTERNAL SOURCES:
+  JZEazyVideoPlayer:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  JZEazyVideoPlayer: 962c0450ac39a4adfee1dcdac994878b196806f5
+
+PODFILE CHECKSUM: 83c2f522e739e13e8bc1e9ec2ce87eaa8622fec0
+
+COCOAPODS: 1.10.0
